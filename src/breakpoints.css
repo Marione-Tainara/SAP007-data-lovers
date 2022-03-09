@@ -1,0 +1,23 @@
+/* MAX VAI ATE O NUMERO E O MIN INICIA A PARTIR DO NUMERO */
+/* === TABLET === */
+@media screen and (min-width: 470px) and (max-width: 636px) {
+  .image-card {
+    width: 25vw;
+  }
+}
+@media screen and (min-width: 637px) and (max-width: 800px) {
+  .image-card {
+    width: 20vw;
+  }
+  .card-information {
+    flex-direction: row;
+  }
+  .background-card {
+    margin: 1em;
+    height: 22em;
+  }
+}
+
+/* === DESKTOP === */
+@media screen and (min-width: 637px) and (min-width: 1440px) {
+}
