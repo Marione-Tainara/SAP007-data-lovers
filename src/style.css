@@ -270,3 +270,11 @@ footer .criadoras {
 .icones {
   width: 4rem;
 }
+
+#back-to-top .top {
+  position: fixed;
+  bottom: 10rem;
+  right: 4rem;
+  top: 31rem;
+  width: 11rem;
+}
