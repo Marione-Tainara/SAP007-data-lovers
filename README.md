@@ -5,18 +5,25 @@
 - [1. Resumo do projeto] (#1-resumo-do-projeto)
 - [2. Definição de produto] (#2- Definição de produto)
 - [3. Objetivos de aprendizagem] (#3- Objetivos de aprendizagem)
-- [4. Design] (#4- Design)
-- [5. Teste de usabilidade] (#5- Teste de usabilidade)
-- [6. Linguagens utilizadas](#6- Linguagens utilizadas)
-- [7. Criadoras](#7- Criadoras)
+- [4. História do usuário] (#4- História do usuário)
+- [5. Design] (#4- Design)
+- [6. Teste de usabilidade] (#5- Teste de usabilidade)
+- [7. Linguagens utilizadas](#6- Linguagens utilizadas)
+- [8. Criadoras](#7- Criadoras)
 
 ---
 
 ## 1. Resumo do projeto
 
+---
+
 ## 2. Definição de produto
 
+---
+
 ## 3. Objetivos de aprendizagem
+
+---
 
 ### HTML
 
@@ -91,29 +98,51 @@
 
 - [ ] **Planejar e executar testes de usabilidade**
 
-## 3. História do usuário
+---
 
-## 4. Design
+## 4. História do usuário
+
+ <p>Nós escolhemos 4 usuários para trabalhar em nosso web site:</p><br>
+
+<img src="src/img/historias.png" alt="historias" width="80%"><br>
+
+## <p> Com base neles conseguimos visualizar bem que seria necessário para atender as necessidades deles e desenhar o layout da página.</p><br>
+
+## 5. Design
+
+---
 
 ### Desenho de interface do usuário
 
 #### Protótipo de baixa fidelidade
 
-<img   src="img/prototipobaixa.jpg" alt="baixa" >
+<p> Começamos fazendo um desenho a mão para ter um ponto de partida e ter uma ideia de por onde começar...</p><br>
+
+<img src="src/img/prototipobaixa.jpg" alt="prototipo1" width="80%"><br>
 
 #### Protótipo de alta fidelidade
 
-## 5.Teste de usabilidade
+---
 
-## 6. 💻 Linguagens utilizadas
+## 6.Teste de usabilidade
+
+---
+
+## 7. 💻 Linguagens utilizadas
 
 <article>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></br>
+
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></br>
+
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></br>
+
    </article>
 
-## 7. Criadoras
+---
+
+### 8. Criadoras
 
 <table>
   <tr>

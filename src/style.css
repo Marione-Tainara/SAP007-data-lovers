@@ -271,10 +271,27 @@ footer .criadoras {
   width: 4rem;
 }
 
-#back-to-top .top {
+/* === VOLTAR AO TOPO === */
+.back-to-top {
   position: fixed;
-  bottom: 10rem;
-  right: 4rem;
-  top: 31rem;
-  width: 11rem;
+  right: 0rem;
+  bottom: 8rem;
+
+  padding: 0.5rem;
+
+  visibility: hidden;
+  opacity: 0;
+
+  transition: 0.3s;
+  transform: translateY(100%);
+}
+
+.back-to-top.show {
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.image-top {
+  width: 4em;
 }

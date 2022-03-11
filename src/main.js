@@ -93,3 +93,16 @@ function showOrdem(e) {
 function clearFilters() {
   location.reload(); //recarrega a página atual
 }
+const backToTopButton = document.querySelector(".back-to-top"); //procurar no css o botão
+
+function backToTop() {
+  if (window.scrollY >= 100) {
+    //se o eixo Y 'vertical' for igual ou maior a 560
+    backToTopButton.classList.add("show"); //adiciona na class do botão o show
+  } else {
+    backToTopButton.classList.remove("show");
+  }
+}
+window.addEventListener("scroll", function () {
+  backToTop();
+});
