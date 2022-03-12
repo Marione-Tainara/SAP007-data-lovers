@@ -18,7 +18,7 @@
 <Article>O projeto foi desenvolvido pensando nos fãs da série Rick and Morty que gostaria de saber mais informações sobre os personagens, nele podem fazer pesquisas a partir dos filtros, como espécies, gênero, além de poder pesquisar pelo nome. No site vão encontrar cards com informações relevantes sobre os personagens, como nome, gênero, espécie, local de origem, imagem e quantos episódios os personagens aparecem.
 </Article>
 
-------
+---
 
 ## Sobre Rick and Morty
 
@@ -28,10 +28,11 @@
 
 [Wikipédia](https://pt.wikipedia.org/wiki/Rick_and_Morty)
 
-----
+---
+
 ## 2. Definição de produto
 
-----
+---
 
 ## 3. Objetivos de aprendizagem
 
@@ -131,9 +132,13 @@
 
 <p> Começamos fazendo um desenho a mão para ter um ponto de partida e ter uma ideia de por onde começar...</p><br>
 
-<img src="src/img/prototipobaixa.jpg" alt="prototipo1" width="80%"><br>
+<img src="src/img/prototipobaixa.jpg" alt="prototipo1" width="90%"><br>
 
 #### Protótipo de alta fidelidade
+
+<p> Então depois disso fizemos o protótipo de alta fidelidade no figma e este foi o resultado...</p><br>
+
+<img src="src/img/altafidelidade.png" alt="prototipo2" width="90%"><br>
 
 ---
 
