@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [1.Resumo do projeto e Definição de produto](#1-resumo-do-projeto-definição-de-produto)
+- [1.Resumo do projeto e definição de produto](#1-resumo-do-projeto-definição-de-produto)
 - [3.Objetivos de aprendizagem](#3-Objetivos-de-aprendizagem)
 - [4.História do usuário](#4-História-do-usuário)
 - [5.Design](#4-Design)
@@ -15,8 +15,10 @@
 ## 1. Resumo do projeto e definicação de produto
 
 <Article>
-<p>O projeto foi desenvolvido pensando nos fãs da série Rick and Morty que gostariam de saber mais informações sobre os personagens.</p> 
-Nesta ferramenta poderão buscar informações a partir de filtros, como espécies, gênero e nome. Além disso irão encontrar cards com informações relevantes sobre os personagens,local de origem, imagem, status e quantos episódios os personagens aparecem.
+O projeto foi desenvolvido pensando nos fãs da série Rick and Morty que gostariam de saber mais informações sobre os personagens. 
+Nesta ferramenta poderão buscar informações a partir de filtros, como espécies, gênero e nome. Além disso irão encontrar cards com informações relevantes, como, local de origem, status, quantos episódios os personagens aparecem e também a imagem dos personagens.
+
+
 </Article>
 
 ---
@@ -113,7 +115,7 @@ Nesta ferramenta poderão buscar informações a partir de filtros, como espéci
 ## 4. História do usuário
 
  <p>Nós escolhemos 4 usuários para trabalhar em nosso web site.</p>
- <p> Com base neles conseguimos visualizar bem que seria necessário para atender as necessidades deles e desenhar o layout da página:</p><br>
+ <p> Com base neles conseguimos visualizar bem o que seria necessário para atender as necessidades deles e desenhar o layout da página:</p><br>
 
 <img src="src/img/historias.png" alt="historias" width="100%"><br>
 
@@ -129,7 +131,7 @@ Nesta ferramenta poderão buscar informações a partir de filtros, como espéci
 
 <p> Começamos fazendo um desenho a mão para ter um ponto de partida e ter uma ideia de por onde começar...</p><br>
 
-<img src="src/img/prototipobaixa.jpg" alt="prototipo1" width="90%"><br>
+<img src="src/img/prototipobaixa.jpg" alt="prototipo1" width="100%"><br>
 
 ---
 ### Protótipo de alta fidelidade
@@ -140,7 +142,7 @@ Então depois disso fizemos o protótipo de alta fidelidade no
 [figma](https://www.figma.com/file/HNxyiYrYOwIhZLV15tcFoq/Untitled), que possibilitou a simulação do resultado da aplicação. Nossa intenção foi fazer uma interface simples, amigável e escolhemos cores que que remetesse a série. E este foi o resultado final...
 </article>
 
-<img src="src/img/altafidelidade.png" alt="prototipo2" width="90%"><br>
+<img src="src/img/altafidelidade.png" alt="prototipo2" width="100%"><br>
 
 ---
 
