@@ -56,7 +56,7 @@ function showGender(e) {
   const statisticGender = `${percentage(
     data.results.length,
     genderResults.length
-  )}% dos personagens`;
+  )}% of the characters`;
   showStatistics(statisticGender);
   return showOnCards(genderResults);
 }
@@ -66,7 +66,7 @@ function showSpecies(e) {
   const statisticSpecies = `${percentage(
     data.results.length,
     resultSpecies.length
-  )}% dos personagens`;
+  )}% of the characters`;
   showStatistics(statisticSpecies);
   return showOnCards(resultSpecies);
 }
@@ -76,13 +76,13 @@ function nameCharacters(e) {
   const statisticName = `${percentage(
     data.results.length,
     characters.length
-  )} % dos personagens`;
+  )} % of the characters`;
   showStatistics(statisticName);
   return showOnCards(characters);
 }
 
 function showStatistics(data) {
-  statisticText.innerHTML = `Está porcentagem representa ${data} dos personagens`;
+  statisticText.innerHTML = `This percentage represents ${data} of the characters`;
   statisticText.style.display = "flex";
 }
 
